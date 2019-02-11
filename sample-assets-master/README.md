@@ -1,6 +1,7 @@
 # sample-assets
 
 Curated collection of assets (images, models and sounds) to use in A-Frame.
+By https://github.com/aframevr/sample-assets
 
 > Work in progress.
 
