@@ -1,0 +1,21 @@
+{
+  "name": "sample-assets",
+  "version": "1.0.0",
+  "description": "A-Frame sample assets",
+  "main": "index.js",
+  "scripts": {
+    "dist": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aframevr/sample-assets.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aframevr/sample-assets/issues"
+  },
+  "homepage": "https://github.com/aframevr/sample-assets#readme",
+  "devDependencies": {
+    "image-size": "^0.5.1"
+  }
+}
